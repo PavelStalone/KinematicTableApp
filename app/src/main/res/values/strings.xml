@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KinematicTable</string>
+    <string name="EnterTurns">Кол-во оборотов</string>
+    <string name="SendCommand">Применить</string>
+    <string name="deviceConnected">Устройство подключено</string>
+    <string name="deviceNotConnected">Устройство не подключено</string>
+
+</resources>
